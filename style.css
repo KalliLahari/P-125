@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    text-align: center;
+    font-family: 'Nova Square', cursive;
+}
+
+.heading{
+    background-color: paleturquoise;
+    color: palevioletred;
+    font-weight: bold;
+    padding: 10px;
+    letter-spacing: 3px;
+    
+    margin: 0;
+}
+
+.note{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.footer{
+    position: fixed;
+    color: palevioletred;
+    bottom: 0;
+    width: 100%;
+    background-color: paleturquoise;
+    line-height: 3; 
+    letter-spacing: 2px;
+    
+}
+
+canvas{
+    border: 5px solid palevioletred;
+    box-shadow: 5px 5px 5px paleturquoise;
+    border-radius: 20px;
+}
+
